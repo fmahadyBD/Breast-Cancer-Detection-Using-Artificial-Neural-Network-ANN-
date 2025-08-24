@@ -141,6 +141,12 @@ Each group contains measurements for:
 - **Test Accuracy**: ~95%+ (varies by run due to random initialization)
 - **Prediction Speed**: Near-instantaneous for individual predictions
 - **Batch Processing**: Efficient handling of multiple patients
+### Traning:
+<img width="551" height="259" alt="Screenshot from 2025-08-25 02-15-37" src="https://github.com/user-attachments/assets/00033b03-38fd-4976-9699-b48d5bda7de4" />
+
+### Testing:
+<img width="551" height="259" alt="Screenshot from 2025-08-25 02-13-43" src="https://github.com/user-attachments/assets/43217126-6295-4d4b-adce-1636bcf29fed" />
+
 
 ### Sample Output
 ```
